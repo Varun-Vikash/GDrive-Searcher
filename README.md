@@ -36,8 +36,3 @@ $ cd GdriveSearcherBot
 $ sudo docker build . -t GdriveSearcherBot
 $ sudo docker run GdriveSearcherBot
 ```
-### Credits
-[@SVR666](https://github.com/SVR666) For Drive module.
-
-### Notes
-- Join [PatheticProgrammers](https://t.me/patheticprogrammers) For Help.
