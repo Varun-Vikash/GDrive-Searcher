@@ -31,8 +31,8 @@ $ cp sample_config.py config.py
 
 ### Docker Installation
 ```sh
-$ git clone https://github.com/thehamkercat/GdriveSearcherBot
-$ cd GdriveSearcherBot
+$ git clone https://github.com/varun-vikash/GDrive-Searcher
+$ cd GDrive-Searcher
 $ sudo docker build . -t GdriveSearcherBot
 $ sudo docker run GdriveSearcherBot
 ```
